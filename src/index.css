@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.navv{
+  display: flex;
+}
+.title1{
+  margin-bottom: 30px;
+}
+.title{
+  font-weight: bold;
+  color: rgb(83, 83, 167);
+  font-size: 60px;
+  
+  
+}
+
+.img1{
+margin-left: 105px;
+}
+.about{
+ 
+  height: 400px;
+  background-color: rgb(96, 130, 243);
+  display: flex;
+}
+
+.about1{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 100px;
+  padding-left: 70px;
+  padding-top: 30px;
+}
+.about2{
+  text-shadow: 2px 2px 8px #FF0000;
+  color: rgb(241, 210, 168);
+  padding-left: 50px;
+  padding-top: 30px;
+}
+.about3{
+  color: white;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+  margin-top: 30px;
+}
+.company1{
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: darkmagenta;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.foot{
+  background-color: rgb(11, 11, 73);
+}
+
+.foot1{
+  color: aliceblue;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 30px;
+  margin: 30px 0 30px 0;
+}
+.foot2{
+  display: flex;
+  color: aliceblue;
+  justify-content: space-evenly;
+}
+.head{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: cursive;
+}
+.formm{
+  width: 300px;
+  height: 100px;
+  padding: 15px;
+  background-image: url("http://localhost:3000/form.jpg");
+  height: 800px;
+  width: 800px;
+  margin-left: 300px;
+  
+}
+.whole{
+  background-color: rgb(219, 197, 168);
+
+}
+.box{
+  background-color: rgb(219, 239, 240);
+  width: 600px;
+  margin-left: 400px;
+}
+.cname{
+  display: flex;
+  justify-content: space-around;
+}
+.kk{
+  margin-left: 400px;
+}
+.exp{
+  display: flex;
+  justify-content: space-around;
+}
+.sl{
+  display: flex;
+  justify-content: space-around;
+}
